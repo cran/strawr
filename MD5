@@ -1,4 +1,4 @@
-d18fb9e00b573f39e20ad0f986012994 *DESCRIPTION
+4f672338fc4ea99f1aedd4affc84d266 *DESCRIPTION
 ccc8fe2d7f42cc5991d59b868d48ff03 *LICENSE
 ec52a9e0c713664e9594086b241ef3b0 *NAMESPACE
 1de393bbc5023749be61866687296f72 *R/RcppExports.R
@@ -10,9 +10,10 @@ d48ec203e1471f4982200c45c8a6a5e2 *man/readHicChroms.Rd
 d766cda56d3722a47a534105ba4ed270 *man/straw.Rd
 1f17a54534f7d66dd11a5853efe18aae *man/strawr.Rd
 c8db599640c9a651d906345925489457 *src/Makevars
-cc1510432bec559fd97b770aea5dab27 *src/Makevars.win
+2cec33791efd347cbcb051402d7cf9c4 *src/Makevars.ucrt
+2fd2e843f107db88df21c7ba582aa75c *src/Makevars.win
 e0d15b290e347c44459b992ed641a24f *src/RcppExports.cpp
-d40152fc3e475566364b78e4ed4bcb84 *src/straw.cpp
+810dbc78276059d41fc5acbfbdb12be3 *src/straw.cpp
 ec70048530a08074e3df71087123ba7e *src/straw.h
 7ad218c6d5946069b6403b3ae0a14796 *tools/symbols-in-versions
 c2436725bebfc191e24f5de2decc3887 *tools/symbols.R
